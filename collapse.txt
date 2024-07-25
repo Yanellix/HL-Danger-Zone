@@ -1,0 +1,7 @@
+"collapse"
+{
+	"base"		"base"
+	"title"		"collapse"
+	"maps"		""
+	"menusystem" "1"
+}
